@@ -60,7 +60,7 @@ public class GameManager : MonoBehaviour
 			Rect rect2 = new Rect (Screen.width / 2 - 30, Screen.height / 2 - 25, 60, 50);
 			GUI.Label (rect2, "Good Job!");
 
-			Rect rect3 = new Rect(Screen.width / 2 - 65, 220, 130, 40);
+			Rect rect3 = new Rect(Screen.width / 2 - 65, 100, 130, 40);
 			GUI.Box(rect3, "Your Time Was:  " + ((int)time).ToString());
 
 			}

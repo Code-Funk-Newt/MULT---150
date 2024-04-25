@@ -23,9 +23,11 @@ balls whizzing around you.
 
 Implemented suggestions from the book:
 - I added a clock that counts the run time of the game. 
-- I added a ball chaos goal that is competing against the player
-- I changed the shape of the bumper for more control
-- I added water sounds while walking from a unity free asset online
+- I added a chaos ball goal that is competing against the player. The player is supposed to play as a goalie at the chaos ball goal.
+The objective is for the player to gettthe colored balls in their goals before the all the choas balls score their goal.  
+- I changed the shape of the bumper for more control. The angles allow for more precision. 
+- I changed the texture of the bumper to give it an old timely boardgame feel.
+- I added water sounds while walking from a unity free asset online.
 
 
 
